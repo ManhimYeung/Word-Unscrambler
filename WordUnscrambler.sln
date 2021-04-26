@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordUnscrambler", "WordUnscrambler.csproj", "{8B76CBFC-BBFE-4D38-BBDA-FE4AC73BC1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B76CBFC-BBFE-4D38-BBDA-FE4AC73BC1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B76CBFC-BBFE-4D38-BBDA-FE4AC73BC1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B76CBFC-BBFE-4D38-BBDA-FE4AC73BC1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B76CBFC-BBFE-4D38-BBDA-FE4AC73BC1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73158BE2-ECDA-4762-9503-0FB023F918E1}
+	EndGlobalSection
+EndGlobal
